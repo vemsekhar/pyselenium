@@ -1,0 +1,35 @@
+
+
+'''lamb = lambda x : x*x 
+print(lamb(5))'''
+
+
+##from re import X
+
+
+'''squares = lambda x: x*x
+print('using lambda :', squares(5))'''
+
+
+'''def square(x):
+    b=[]
+    for i in x:
+        b.append(i*i)
+    print(b)
+    return 
+    
+square([3,4,5])'''
+a= (3,5)
+b = lambda x,y : x*y
+c = b(a[0],a[1])
+
+print(c)
+
+
+
+
+
+
+
+
+ 
